@@ -1,0 +1,11 @@
+customer_id,name,email,phone,city,signup_date,is_active
+CUST101,Rahul Sharma,rahul.s@email.com,9876543210,Hyderabad,2022-06-15,true
+CUST102,Priya Reddy,priya.r@email.com,9876543211,Bangalore,2023-01-20,true
+CUST103,Amit Patel,amit.p@email.com,9876543212,Mumbai,2021-11-05,true
+CUST104,Sneha Kumar,sneha.k@email.com,9876543213,Hyderabad,2023-08-10,true
+CUST105,Vikram Nair,vikram.n@email.com,9876543214,Hyderabad,2022-03-22,true
+CUST106,Anjali Singh,anjali.s@email.com,9876543215,Bangalore,2024-01-05,true
+CUST107,Rohan Mehta,rohan.m@email.com,9876543216,Mumbai,2021-07-18,false
+CUST108,Divya Rao,divya.r@email.com,9876543217,Chennai,2023-11-30,true
+CUST109,Suresh Babu,suresh.b@email.com,9876543218,Hyderabad,2022-09-14,true
+CUST110,Meena Iyer,meena.i@email.com,9876543219,Bangalore,2023-05-07,true

@@ -1,0 +1,11 @@
+review_id,order_id,restaurant_id,customer_id,rating,review_text,review_date
+REV001,ORD001,REST201,CUST101,5,Amazing biryani, will order again!,2024-03-01
+REV002,ORD002,REST202,CUST102,4,Good pizza, quick delivery,2024-03-01
+REV003,ORD004,REST203,CUST101,3,Dosa was cold on arrival,2024-03-01
+REV004,ORD005,REST204,CUST104,5,Best burger in Hyderabad,2024-03-01
+REV005,ORD006,REST201,CUST105,4,Consistent quality as always,2024-03-01
+REV006,ORD007,REST205,CUST102,2,Noodles were overcooked, disappointing,2024-03-01
+REV007,ORD009,REST203,CUST107,5,Perfect dosa, crispy and hot,2024-03-01
+REV008,ORD010,REST204,CUST101,4,Good burger but slow delivery,2024-03-01
+REV009,ORD001,REST201,CUST101,5,Haleem was outstanding today,2024-03-02
+REV010,ORD002,REST202,CUST102,3,Pizza was okay, nothing special,2024-03-02

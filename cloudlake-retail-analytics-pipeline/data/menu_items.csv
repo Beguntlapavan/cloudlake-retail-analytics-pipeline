@@ -1,0 +1,11 @@
+menu_item_id,restaurant_id,item_name,category,price,is_available
+MENU101,REST201,Chicken Biryani,Main Course,150.00,true
+MENU102,REST201,Veg Biryani,Main Course,120.00,true
+MENU103,REST201,Haleem,Main Course,160.00,true
+MENU201,REST202,Margherita Pizza,Pizza,280.50,true
+MENU202,REST202,BBQ Chicken Pizza,Pizza,350.00,true
+MENU301,REST203,Masala Dosa,Breakfast,175.00,true
+MENU302,REST203,Idli Sambar,Breakfast,80.00,true
+MENU401,REST204,Classic Burger,Burgers,280.00,true
+MENU402,REST204,Double Patty,Burgers,330.00,true
+MENU501,REST205,Veg Hakka Noodles,Noodles,220.00,true

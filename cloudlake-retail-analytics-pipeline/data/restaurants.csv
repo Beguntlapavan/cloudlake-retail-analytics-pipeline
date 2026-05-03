@@ -1,0 +1,11 @@
+restaurant_id,restaurant_name,city,cuisine,avg_rating,is_active
+REST201,Biryani House,Hyderabad,Indian,4.5,true
+REST202,Pizza Corner,Bangalore,Italian,4.2,true
+REST203,Dosa Palace,Mumbai,South Indian,4.7,true
+REST204,Burger Joint,Hyderabad,American,3.9,true
+REST205,Noodle Bar,Bangalore,Chinese,4.1,true
+REST206,Tandoor Express,Chennai,North Indian,4.4,true
+REST207,Sushi Stop,Mumbai,Japanese,4.6,false
+REST208,Masala Hut,Hyderabad,Indian,3.8,true
+REST209,Fresh Bowl,Bangalore,Healthy,4.3,true
+REST210,Street Taco,Chennai,Mexican,4.0,true
